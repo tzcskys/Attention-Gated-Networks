@@ -246,6 +246,3 @@ dmypy.json
 # pycharm settings
 .idea/
 
-=======
-flycheck*
->>>>>>> bb323835caa208effacd0813e557289c5b1a8c65
